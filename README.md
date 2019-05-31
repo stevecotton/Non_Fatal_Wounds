@@ -3,6 +3,13 @@ Non-Fatal Wound System
 
 This is an add-on for the game [Wesnoth](https://www.wesnoth.org/).
 
+Spoiler warning
+---------------
+
+The `utils/campaigns.cfg` and `utils/campaign_*.cfg` files contain campaign-specific events. Many of these are plot spoilers.
+
+As the first line of the Git commit messages is shown in Github’s directory listings, I'll try to avoid adding spoilers there.
+
 In-game description (for the add-ons server)
 --------------------------------------------
 
@@ -18,4 +25,4 @@ Feedback
 ========
 
 Please use either Github’s issue tracker, or PM me (Octalot) on the forums.
-Note: the forum thread that’s linked to is a general discussion about save-scumming. If you find bugs in the add-on, please message Octalot instead of commenting in the thread.
+Note: the forum thread that’s linked to is a general discussion about save-scumming. If you find bugs in the add-on, or campaigns that need compaign-specific code, please message Octalot instead of commenting in the thread.
