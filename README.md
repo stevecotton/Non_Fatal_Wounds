@@ -1,5 +1,5 @@
-Non-Fatal Wound System
-======================
+Non-Fatal Wounds
+================
 
 This is an add-on for the game [Wesnoth](https://www.wesnoth.org/).
 
