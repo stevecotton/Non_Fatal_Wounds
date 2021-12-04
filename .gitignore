@@ -2,9 +2,6 @@
 # handling of add-ons mechanism
 _info.cfg
 
-# And ensure that _server.pbl doesn't get checked in
-*.pbl
-
 # A file for checking the README.md's conversion to HTML
 temp.html
 
