@@ -8,7 +8,7 @@ email="steve@octalot.me.uk"
 [feedback]
   topic_id=51849
 [/feedback]
-description=_ "Non-Fatal Wounds
+description="Non-Fatal Wounds
 
 When a unit reaches 0 hp, instead of dying, it’s merely removed for the current scenario. The wounded units go back into the “recall” pool for next mission!
 
